@@ -1,0 +1,52 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Project/Automacao_Importar_Fila/ImportarParaFila.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dataReportOpportunities&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Project/Automacao_Exportar_e_Preencher_Forms/PreencherForms.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strPassword&Sequence_14",
+        "dataReports&Sequence_3",
+        "ReportTransaction&Sequence_3",
+        "ReportID&Sequence_4",
+        "ReportAccountName&Sequence_4",
+        "ReportOpportunityOwner&Sequence_4",
+        "ReportStage&Sequence_4",
+        "ReportQuantity&Sequence_4",
+        "ReportUnitSalesPrice&Sequence_4",
+        "ReportTotalPrice&Sequence_4",
+        "ReportListPrice&Sequence_4",
+        "ReportMoeda&Sequence_4",
+        "ReportCountry&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
